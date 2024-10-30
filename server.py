@@ -17,7 +17,8 @@
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
-
+#(Escribe aqui algo si no quieres que el server se apague)
+#
 
 
 
