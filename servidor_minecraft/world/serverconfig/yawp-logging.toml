@@ -1,0 +1,14 @@
+
+["YetAnotherWorldProtector logging configuration"]
+	#Enable logging of flag checks.
+	log_flag_check = false
+	#Enable logging of flag check results.
+	log_flag_result = true
+	#Enable logging of empty (without responsible region) flag check results.
+	log_empty_results = false
+	#List of flag categories which shall be logged.
+	#Valid categories are: player, block, entity, item, environment, protection and * (for all).
+	log_flag_categories = ["player"]
+	#List of flags which shall be logged.
+	log_flags = ["break-blocks", "place-blocks"]
+

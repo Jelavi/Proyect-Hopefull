@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "c32e4d62-96eb-3813-835b-a605751e7be1",
+    "name": "Kalipar",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "948e9c82-86c8-3706-8152-fa5b0a78b222",
+    "name": "Jelavi_L",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  }
+]
