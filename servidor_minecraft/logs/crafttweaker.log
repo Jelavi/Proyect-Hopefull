@@ -1,0 +1,35 @@
+[15:07:08.329][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[15:07:08.363][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[15:07:08.410][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[15:07:08.411][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[15:07:08.419][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[15:07:08.420][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
+[15:07:09.327][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[15:07:09.328][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.43'
+[15:07:09.328][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[15:07:09.328][INFO][CraftTweaker]: - 'gamestages' at version '15.0.2'
+[15:07:09.328][INFO][CraftTweaker]: - 'itemstages' at version '8.0.3'
+[15:07:09.328][INFO][CraftTweaker]: - 'recipestages' at version '8.0.0.2'
+[15:07:09.328][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.6'
+[15:07:09.329][INFO][CraftTweaker]: - 'sdmmobstages' at version '1.20.1-1.0.1'
+[15:07:09.329][INFO][CraftTweaker]: - 'timestages' at version '4.0.0'
+[15:07:29.736][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[15:07:30.178][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:07:30.215][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[15:07:30.414][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[15:07:45.519][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[15:07:45.544][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:07:45.563][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[15:07:45.577][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[15:07:53.221][INFO][CraftTweaker]: crafttweaker.reload.start
+[15:07:53.228][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:07:53.248][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:07:53.664][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:07:53.664][INFO][CraftTweaker-ZenCode]: Loading file 'prueba1.zs' with priority 0
+[15:07:53.678][INFO][CraftTweaker]: Removing all recipes that output <item:lightmanscurrency:coinmint>
+[15:07:53.706][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[15:07:53.706][INFO][CraftTweaker]: Removing all recipes that output <item:lightmanscurrency:ticket_machine>
+[15:07:53.724][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[15:07:53.724][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[15:07:53.725][INFO][CraftTweaker]: crafttweaker.reload.complete
+[15:07:53.725][INFO][CraftTweaker]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

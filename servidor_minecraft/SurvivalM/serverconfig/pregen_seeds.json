@@ -1,0 +1,46 @@
+{
+	"level_seeds": [
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1960103446376703844
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1960103446376703844
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1960103446376703844
+		}
+	]
+}
